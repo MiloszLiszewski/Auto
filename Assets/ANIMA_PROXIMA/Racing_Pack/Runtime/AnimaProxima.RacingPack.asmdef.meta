@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d08df6b88fa6047eeb6157b9ac331f3e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389272
+  packageName: ANIMA PROXIMA - Low Poly Racing Track Starter Pack
+  packageVersion: 2.0
+  assetPath: Assets/ANIMA_PROXIMA/Racing_Pack/Runtime/AnimaProxima.RacingPack.asmdef
+  uploadId: 1019366
